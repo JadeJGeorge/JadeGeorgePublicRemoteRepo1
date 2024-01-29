@@ -3,3 +3,4 @@
 #AnuSaroyaPublicRemoteRepo1
 Some Conflict Changes
 A conflict was here as well. -Jade
+A conflict has been corrected! -Jade 
